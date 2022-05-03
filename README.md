@@ -1,5 +1,6 @@
 # jwt-aspnetcore
 Implementing JWT Authentication in ASP.NET Core 5
+https://www.codemag.com/article/2105051?utm_source=twitter&utm_medium=social-owned&utm_campaign=sm-articles
 
 To clone this repository, create a folder in your computer where you would like the source code tpo be downloaded. Now you can clone the source code repository using the following command:
 
